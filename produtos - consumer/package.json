@@ -15,7 +15,7 @@
     "express": "^4.16.4",
     "kafka-node": "^5.0.0",
     "mocha": "^5.2.0",
-    "mongoose": "^5.4.10",
+    "mongoose": "^5.7.5",
     "mongoose-beautiful-unique-validation": "^7.1.1",
     "nodemon": "^1.17.4",
     "path": "^0.12.7",
